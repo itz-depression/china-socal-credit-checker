@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/fucku-vita/debugScreen.c
+debugScreen.h
+/root/fucku-vita/debugScreen.h
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+inttypes.h
+-
+psp2/display.h
+-
+psp2/kernel/sysmem.h
+-
+psp2/kernel/threadmgr.h
+-
+
+/root/fucku-vita/debugScreen.h
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+inttypes.h
+-
+
+/root/fucku-vita/debugScreenFont.c
+
+/root/fucku-vita/main.c
+stdio.h
+-
+psp2/ctrl.h
+-
+debugScreen.h
+/root/fucku-vita/debugScreen.h
+

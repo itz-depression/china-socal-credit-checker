@@ -1,0 +1,5 @@
+/root/fucku-vita/CMakeFiles/edit_cache.dir
+/root/fucku-vita/CMakeFiles/CSCC.elf.dir
+/root/fucku-vita/CMakeFiles/rebuild_cache.dir
+/root/fucku-vita/CMakeFiles/CSCC.vpk.dir
+/root/fucku-vita/CMakeFiles/eboot.bin.dir
