@@ -1,1 +1,0 @@
-arm-vita-eabi-gcc  -Wl,-q -std=gnu11  -Wl,-z,nocopyreloc CMakeFiles/CSCC.elf.dir/main.c.obj CMakeFiles/CSCC.elf.dir/debugScreen.c.obj CMakeFiles/CSCC.elf.dir/debugScreenFont.c.obj  -o CSCC.elf -lSceDisplay_stub -lSceCtrl_stub 
